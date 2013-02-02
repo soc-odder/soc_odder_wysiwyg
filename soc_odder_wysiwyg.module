@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Odder 2014 WYSIWYG feature.
+ */
+
+include_once 'soc_odder_wysiwyg.features.inc';

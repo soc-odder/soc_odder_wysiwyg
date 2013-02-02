@@ -1,0 +1,14 @@
+name = Odder 2014 WYSIWYG
+core = 7.x
+package = Odder 2014
+version = 7.x-0.1
+project = soc_odder_wysiwyg
+dependencies[] = features
+dependencies[] = linkit
+dependencies[] = media
+dependencies[] = wysiwyg
+features[ctools][] = linkit:linkit_profiles:1
+features[features_api][] = api:1
+features[filter][] = filtered_html
+features[linkit_profiles][] = buildthat_default
+features[wysiwyg][] = filtered_html

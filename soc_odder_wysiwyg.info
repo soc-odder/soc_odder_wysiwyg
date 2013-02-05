@@ -1,6 +1,7 @@
 name = Odder 2014 WYSIWYG
 core = 7.x
 package = Odder 2014
+php = 5.2.4
 version = 7.x-0.1
 project = soc_odder_wysiwyg
 dependencies[] = features

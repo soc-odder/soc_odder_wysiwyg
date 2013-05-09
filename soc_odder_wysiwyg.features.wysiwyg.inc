@@ -29,13 +29,6 @@ function soc_odder_wysiwyg_wysiwyg_default_profiles() {
           'Blockquote' => 1,
           'Source' => 1,
           'RemoveFormat' => 1,
-          'Format' => 1,
-        ),
-        'linkit' => array(
-          'linkit' => 1,
-        ),
-        'drupal' => array(
-          'media' => 1,
         ),
       ),
       'toolbar_loc' => 'top',

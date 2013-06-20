@@ -16,7 +16,7 @@ function soc_odder_wysiwyg_filter_default_formats() {
     'name' => 'Filtered HTML',
     'cache' => '1',
     'status' => '1',
-    'weight' => '0',
+    'weight' => '-8',
     'filters' => array(
       'filter_html' => array(
         'weight' => '-10',
